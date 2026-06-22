@@ -21,7 +21,7 @@ I am a Machine Learning Engineer with over three years of experience applying ar
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agboola-mubarak-258767171/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victor-oloruntoba-8067bb1a5/)
 
 ---
 *“Using data and intelligence to build solutions that matter.”*
